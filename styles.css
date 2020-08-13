@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family:serif;
+    background-color: crimson;
+}
+h1{
+    font-size: Bold;
+  color: white;
+  text-align: center;
+
+}
+form{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
